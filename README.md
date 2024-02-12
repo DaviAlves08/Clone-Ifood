@@ -29,15 +29,6 @@ https://github.com/DaviAlves08/Clone-Ifood/assets/139929297/d0ee1ecc-611f-4482-8
 <h2>Cadastro</h2>
 
 <img src="https://github.com/DaviAlves08/assets/blob/main/Ifood/Cadastro.PNG">
-<h2>Como Rodar a Aplicação</h2>
-
-```bash
-# clonar repositório
-git clone https://github.com/DaviAlves08/Clone-Ifood.git
-
-# entrar na pasta do projeto clone-ifood
-cd clone-ifood
-```
 
 ## Autor 
 
