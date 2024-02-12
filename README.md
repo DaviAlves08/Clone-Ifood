@@ -33,19 +33,10 @@ https://github.com/DaviAlves08/Clone-Ifood/assets/139929297/d0ee1ecc-611f-4482-8
 
 ```bash
 # clonar repositório
-git clone https://github.com/DaviAlves08/Calculadora.git
+git clone https://github.com/DaviAlves08/Clone-Ifood.git
 
-# entrar na pasta do projeto calculadora
-cd calculadora
-
-# instalar dependências
-npm install
-
-# executar o projeto
-npx expo start
-
-# OBS: se necessário, atualize o SDK do expo: 
-expo upgrade
+# entrar na pasta do projeto clone-ifood
+cd clone-ifood
 ```
 
 ## Autor 
