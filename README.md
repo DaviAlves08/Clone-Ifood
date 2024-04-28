@@ -28,7 +28,7 @@ https://github.com/DaviAlves08/Clone-Ifood/assets/139929297/d0ee1ecc-611f-4482-8
 
 <h2>Cadastro</h2>
 
-<img src="https://github.com/DaviAlves08/assets/blob/main/Ifood/Cadastro.PNG">
+![Cadastro](https://github.com/DaviAlves08/Clone-Ifood/assets/139929297/e4bd1ce4-526d-468f-b3cd-91c8887ec51c)
 
 ## Autor 
 
